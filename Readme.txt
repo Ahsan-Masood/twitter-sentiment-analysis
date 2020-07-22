@@ -1,4 +1,4 @@
-1. Check for all the python dependencies and libraries, moreover be sure your XAMPP/WampServer is up and running before executing the source files.
+1. Check for all the python dependencies and libraries, moreover be sure your XAMPP/WampServer is up and running before executing the source file.
 
 2. Place the "Server Files" folder contents into XAMPP's "htdocs" folder. Or if you are using WampServer then place them into "www" folder.
 
